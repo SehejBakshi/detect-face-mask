@@ -3,7 +3,7 @@ This program detects whether a person is wearing a face mask or not both in imag
 Right now, this works only for one person wearing a mask in a frame. So there's room for imorovement!
 
 ## Dataset
-The dataset here was made by @prajnasb. 
+The dataset here was made by @prajnasb. <a href="https://github.com/prajnasb/observations">Prajna's Github Repo</a>
 This dataset consists of 1,376 images belonging to two classes:
 1. with_mask: 690 images
 2. without_mask: 686 images
