@@ -1,6 +1,6 @@
 # COVID-19: Face Mask Detector with OpenCV, and Deep Learning
 This program detects whether a person is wearing a face mask or not both in images, and in real-time video stream.
-Right now, this works only for one person wearing a mask in a frame. So there's room for imorovement!
+Right now, this works only for one person wearing a mask in a frame. So there's room for improvement!
 
 ## Dataset
 The dataset here was made by @prajnasb (<a href="https://github.com/prajnasb/observations">Prajna's Github Repo</a>)
